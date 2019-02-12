@@ -4,6 +4,7 @@
 
 Rated for up to 4kV (to be tested), holding force (to be tested).
 
+###Demo (klick the image)
 [![Demo](https://raw.githubusercontent.com/Jan--Henrik/electrostatic-adhesion-plate/master/thumb.jpg)](https://twitter.com/JanHenrikH/status/1094664006059593729)
 
 ![Frontview](https://raw.githubusercontent.com/Jan--Henrik/electrostatic-adhesion-plate/master/100100mm/Front.png)
