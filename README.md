@@ -1,5 +1,6 @@
 # electrostatic-adhesion-plate
 
+[100mm * 100mm](100100mm/)
 ## 100mm * 100mm
 
 Rated for up to 4kV (to be tested), holding force (to be tested).
