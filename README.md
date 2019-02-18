@@ -25,7 +25,15 @@ The electrode voltage should be between 500V and 5kV DC (depending on the design
 
 ## [100mm * 100mm](100100mm/)
 
-Rated for up to 2kV (to be tested), holding force (to be tested).
+| Parameter         | Value         | 
+| -------------     |:-------------:|
+| Electrode Voltage | 500V-2000V    |
+| Electrode Voltage*| 500V-3000V    |
+| shearing force    | >5mN@3kV **   |
+| adhesive force    | **            |
+
+* With Insulation
+** TBD
 
 #### [Demo Video](https://twitter.com/JanHenrikH/status/1094664006059593729)
 
@@ -33,6 +41,15 @@ Rated for up to 2kV (to be tested), holding force (to be tested).
 
 ## [DIN A5](DINA5)
 
-Rated for up to 2kV (to be tested), holding force (to be tested).
+| Parameter         | Value         | 
+| -------------     |:-------------:|
+| Electrode Voltage | 500V-2000V    |
+| Electrode Voltage*| 500V-5000V    |
+| shearing force    | **            |
+| adhesive force    | **            |
+
+* With Insulation
+** TBD
+
 
 ![Frontview](/DINA5/Front.png)
