@@ -6,11 +6,15 @@ A batch (50pcs) of the seccond version is about to be ordered by me.
 
 The boards were designed so that they can be connected to larger printed circuit boards (electrically) using solder connections. This makes it possible to build relatively large electroadhesive surfaces with relatively inexpensive printed circuit boards.
 
+![Frontview](/Images/f03ba77f-4d8d-44b8-966d-36029fc7bf42.jpeg)
+
+The surface of each PCB or the whole panel should be coated with a high voltage isolator, as the soldermask does not withstand high voltage very well. Kapton is a suitable material as its dielectric strength is about 7.6kV/25µm 
+
 ## [100mm * 100mm](100100mm/)
 
 Rated for up to 2kV (to be tested), holding force (to be tested).
 
-#### [Demo](https://twitter.com/JanHenrikH/status/1094664006059593729)
+#### [Demo Video](https://twitter.com/JanHenrikH/status/1094664006059593729)
 
 ![Frontview](/100100mm/Front.png)
 
