@@ -32,9 +32,9 @@ The electrode voltage should be between 500V and 5kV DC (depending on the design
 | shearing force    | >5mN@3kV **   |
 | adhesive force    | **            |
 
-* With Insulation
+\* With Insulation
 
-** TBD
+\** TBD
 
 #### [Demo Video](https://twitter.com/JanHenrikH/status/1094664006059593729)
 
@@ -49,9 +49,9 @@ The electrode voltage should be between 500V and 5kV DC (depending on the design
 | shearing force    | **            |
 | adhesive force    | **            |
 
-* With Insulation
+\* With Insulation
 
-** TBD
+\** TBD
 
 #### Changes to V1 (100100mm)
 
