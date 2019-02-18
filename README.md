@@ -23,6 +23,8 @@ The electrode voltage should be between 500V and 5kV DC (depending on the design
 
 ![Solderpoints](/Images/b7234b52-5d54-4049-b951-56b2e7e6c978.jpeg)
 
+___
+
 ## [100mm * 100mm](100100mm/)
 
 | Parameter         | Value         | 
@@ -39,6 +41,8 @@ The electrode voltage should be between 500V and 5kV DC (depending on the design
 #### [Demo Video](https://twitter.com/JanHenrikH/status/1094664006059593729)
 
 ![Frontview](/100100mm/Front.png)
+
+___
 
 ## [DIN A5](DINA5)
 
