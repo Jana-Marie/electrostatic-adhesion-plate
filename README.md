@@ -33,6 +33,7 @@ The electrode voltage should be between 500V and 5kV DC (depending on the design
 | adhesive force    | **            |
 
 * With Insulation
+
 ** TBD
 
 #### [Demo Video](https://twitter.com/JanHenrikH/status/1094664006059593729)
@@ -49,6 +50,14 @@ The electrode voltage should be between 500V and 5kV DC (depending on the design
 | adhesive force    | **            |
 
 * With Insulation
+
 ** TBD
+
+#### Changes to V1 (100100mm)
+
+ * Size is now 148*210mm (DinA5)
+ * Electrode width and distance are optimized
+ * M3 threads where added
+ * Sharp edges where removed
 
 ![Frontview](/DINA5/Front.png)
