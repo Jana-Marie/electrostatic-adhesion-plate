@@ -33,15 +33,15 @@ ___
 | Electrode Voltage*| 500V-3000V    |
 | without extra coating (silkscreen)|
 | shearing force    | 9N @1.4kV     |
-| shearing force cm²| 9mN/cm² @1.2kV|
+| shearing force cm²| 90mN/cm² @1.2kV|
 | adhesive force    | **            |
 | PlastiDip Coating                 |
 | shearing force    | 4N @1.4kV     |
-| shearing force cm²| 4mN/cm² @1.2kV|
+| shearing force cm²| 40mN/cm² @1.2kV|
 | adhesive force    | **            |
 | PlastiDip Coating                 |
-| shearing force    | 9N @1.4kV     |
-| shearing force cm²| 9mN/cm² @1.2kV|
+| shearing force    | 2.5N @1.4kV     |
+| shearing force cm²| 25mN/cm² @1.2kV|
 | adhesive force    | **            |
 
 \* With Insulation
