@@ -31,7 +31,8 @@ ___
 | -------------     |:-------------:|
 | Electrode Voltage | 500V-2000V    |
 | Electrode Voltage*| 500V-3000V    |
-| shearing force    | >5mN@3kV **   |
+| shearing force    | 9N @1.4kV     |
+| shearing force cm²| 9mN/cm² @1.4kV|
 | adhesive force    | **            |
 
 \* With Insulation
@@ -72,9 +73,10 @@ ___
 | -------------     |:-------------:|
 | Electrode Voltage | 500V-2000V    |
 | Electrode Voltage*| 500V-5000V    |
-| shearing force    | 60mN/cm²*     |
+| shearing force    | 600mN         |
+| shearing force cm²| 6mN/cm²       |
 | adhesive force    | **            |
 
-\* @1400V
+\* With Insulation
 
 \** TBD
