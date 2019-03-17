@@ -65,3 +65,16 @@ ___
  * Sharp edges where removed
 
 ![Frontview](/DINA5/Front.png)
+
+### [5050mm](DINA5)
+
+| Parameter         | Value         | 
+| -------------     |:-------------:|
+| Electrode Voltage | 500V-2000V    |
+| Electrode Voltage*| 500V-5000V    |
+| shearing force    | 60mN/cm²*     |
+| adhesive force    | **            |
+
+\* @1400V
+
+\** TBD
