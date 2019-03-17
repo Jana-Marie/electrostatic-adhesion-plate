@@ -39,7 +39,7 @@ ___
 | shearing force    | 4N @1.4kV     |
 | shearing force cm²| 40mN/cm² @1.2kV|
 | adhesive force    | **            |
-| PlastiDip Coating                 |
+| Kapton Coating                 |
 | shearing force    | 2.5N @1.4kV     |
 | shearing force cm²| 25mN/cm² @1.2kV|
 | adhesive force    | **            |
