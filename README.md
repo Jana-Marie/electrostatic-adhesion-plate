@@ -27,7 +27,7 @@ ___
 
 ## [100mm * 100mm](100100mm/)
 
-| *Parameter*         | *Value*         |
+| **Parameter**         | **Value**         |
 | -------------     |:-------------:|
 | Electrode Voltage | 500V-2000V    |
 | Electrode Voltage*| 500V-3000V    |
@@ -35,11 +35,11 @@ ___
 | shearing force    | 9N @1.4kV     |
 | shearing force cm²| 90mN/cm² @1.2kV|
 | adhesive force    | **            |
-| *PlastiDip Coating*                 |
+| **PlastiDip Coating**                 |
 | shearing force    | 4N @1.4kV     |
 | shearing force cm²| 40mN/cm² @1.2kV|
 | adhesive force    | **            |
-| *Kapton Coating*                 |
+| **Kapton Coating**                 |
 | shearing force    | 2.5N @1.4kV     |
 | shearing force cm²| 25mN/cm² @1.2kV|
 | adhesive force    | **            |
@@ -56,7 +56,7 @@ ___
 
 ## [DIN A5](DINA5)
 
-| *Parameter*         | *Value*         |
+| **Parameter**         | **Value**         |
 | -------------     |:-------------:|
 | Electrode Voltage | 500V-2000V    |
 | Electrode Voltage*| 500V-5000V    |
@@ -78,7 +78,7 @@ ___
 
 ### [5050mm](DINA5)
 
-| *Parameter*         | *Value*         |
+| **Parameter**         | **Value**         |
 | -------------     |:-------------:|
 | Electrode Voltage | 500V-2000V    |
 | Electrode Voltage*| 500V-5000V    |
