@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 21)
+    (drawings 17)
     (tracks 78)
     (zones 0)
     (modules 23)
@@ -796,18 +796,6 @@
       (net 6 /N1))
   )
 
-  (gr_text "4 B.Cu" (at 119 83) (layer B.Cu)
-    (effects (font (size 1.5 1.5) (thickness 0.35)))
-  )
-  (gr_text "3 In2.Cu" (at 119 81) (layer In2.Cu)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
-  )
-  (gr_text "2 In1.Cu\n" (at 119 79) (layer In1.Cu)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
-  )
-  (gr_text "1 F.Cu\n" (at 119 77) (layer F.Cu)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
-  )
   (gr_text "50*50mm | 1.5*0.5mm" (at 150 86.8) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
