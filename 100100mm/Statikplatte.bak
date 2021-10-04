@@ -488,4 +488,14 @@ Text Label 6600 3450 0    50   ~ 0
 N5
 Text Label 7100 3750 0    50   ~ 0
 N6
+Text Label 7650 3450 0    50   ~ 0
+N7
+Text Label 8150 3750 0    50   ~ 0
+N8
+Text Label 8700 3450 0    50   ~ 0
+N9
+Text Label 9200 3750 0    50   ~ 0
+N10
+Text Label 9650 3750 0    50   ~ 0
+HV
 $EndSCHEMATC

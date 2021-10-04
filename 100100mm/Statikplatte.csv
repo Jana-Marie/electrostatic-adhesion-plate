@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC, LCSC
+1n,"C1,C2,C3,C4,C5,C6,C7,C8,C9,C10",Capacitor_SMD:C_1812_4532Metric,,C382097
+SS34,"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10",otter:SMAF,,C84635
+VIN,J1,TestPoint:TestPoint_Pad_2.5x2.5mm,,
+GND,"J2,J3,J4,J5,J6",TestPoint:TestPoint_Pad_2.5x2.5mm,,
+HV,"J8,J7,J9,J10",TestPoint:TestPoint_Pad_2.5x2.5mm,,
+33M,R1,Resistor_SMD:R_2512_6332Metric,,C72208

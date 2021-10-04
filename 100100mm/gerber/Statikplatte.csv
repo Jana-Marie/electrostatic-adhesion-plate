@@ -1,0 +1,7 @@
+Id,Designator,Footprint,Quantity, LCSC
+1,"C2,C3,C4,C5,C6,C7,C8,C9,C10,C1",C_1812_4532Metric,10,C382097
+2,J1,TestPoint_Pad_2.5x2.5mm,1,C84635
+3,"J2,J3,J4,J5,J6",TestPoint_Pad_2.5x2.5mm,5,
+4,"J7,J8,J9,J10",TestPoint_Pad_2.5x2.5mm,4,
+5,"D10,D2,D3,D4,D5,D6,D7,D8,D9,D1",SMAF,10,
+6,R1,R_2512_6332Metric,1,C72208
