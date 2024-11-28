@@ -17,7 +17,9 @@ The boards were designed so that they can be connected to larger printed circuit
 The surface of each PCB or the whole panel should be coated with a high voltage isolator, as the soldermask does not withstand high voltage very well. Kapton is a suitable material as its dielectric strength is about 7.6kV/25µm, unfortunately it is difficult to apply.
 Another solution which is being tested is PlastiDip. PlastiDip has a much lower dielectric strength 1.6kV/25µm, so it has to be applied thicker. The advantage here is the rubber-like surface which generates a higher shear force due to its friction.
 
-[Demo of Kapton and PlastiDip (twitter link)](https://twitter.com/_Jana_Marie/status/1094664006059593729)
+https://github.com/user-attachments/assets/e9a8f286-f70a-4371-af7a-df20809293cf
+
+https://github.com/user-attachments/assets/fc1b60f5-51d2-4803-b8a3-286581b4381b
 
 The electrode voltage should be between 500V and 5kV DC (depending on the design), whereby a higher voltage means a higher holding force. This voltage can be obtained from any cheap DC high voltage source (e.g. a bug zapper) or from a low AC voltage source (Please do not use direct mains voltage). The AC voltage can be multiplied and rectified by the Cockcroft Walton voltage multiplier on the back of the PCB.
 
